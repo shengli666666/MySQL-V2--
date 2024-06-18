@@ -1,11 +1,11 @@
 # 欢迎来到SQL小白的学习笔记（运维篇）
 * 本次学习课程为B站黑马程序员系列课程之“MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括”，承接基础和进阶篇。运维篇动手环节较多，练习过程中也遇到过很多问题，
   有些环节记录的内容比较口语化和简略，笔记中如有错误，欢迎指出。
-* [基础部分](https://github.com/shengli666666/MySQL-/tree/main#%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86begining)
-	* [1.第一部分 日志](https://github.com/shengli666666/MySQL-V2--/blob/main/README.md#1%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E6%97%A5%E5%BF%97)
-	* [2.第二部分 主从复制](https://github.com/shengli666666/MySQL-V2--/blob/main/README.md#2-%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6)
-	* [3.第三部分 分库分表](https://github.com/shengli666666/MySQL-V2--/blob/main/README.md#3-%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8)
-	* [4.第四部分 读写分离](https://github.com/shengli666666/MySQL-V2--/blob/main/README.md#4-%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB)
+  
+* [1.第一部分 日志](https://github.com/shengli666666/MySQL-V2--/blob/main/README.md#1%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E6%97%A5%E5%BF%97)
+* [2.第二部分 主从复制](https://github.com/shengli666666/MySQL-V2--/blob/main/README.md#2-%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6)
+* [3.第三部分 分库分表](https://github.com/shengli666666/MySQL-V2--/blob/main/README.md#3-%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8)
+* [4.第四部分 读写分离](https://github.com/shengli666666/MySQL-V2--/blob/main/README.md#4-%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB)
 
 # MySQL运维篇beginning
 # 1.第一部分 日志
